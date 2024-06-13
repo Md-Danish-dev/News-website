@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "The Detroit News" },
+      "author": "Hayley Harding",
+      "title": "'Day of celebration': Detroit sees first population growth since 1957 - Detroit News",
+      "description": "Detroit gained 1,852 people from July 1, 2022 to July 1, 2023, according to the Census Bureau, the city's first population growth since 1957.",
+      "url": "https://www.detroitnews.com/story/news/local/detroit-city/2024/05/16/day-of-celebration-detroit-sees-first-population-growth-since-1957/73685335007/",
+      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/05/15/PDTN/73708083007-20240515-rbmedowntown-038.jpg?crop=3397,1912,x0,y150&width=3200&height=1802&format=pjpg&auto=webp",
+      "publishedAt": "2024-05-17T07:34:17Z",
+      "content": "Detroit For the first time in 66 years, Detroit grew in population, according to new Census Bureau estimates for 2023 that Mayor Mike Duggan hailed as \"a day of celebration\" for Michigan's largest ci… [+7292 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "China Consumption and Investment Slow Unexpectedly - WSJ - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/world/china/china-consumption-investment-slows-unexpectedly-d397cec6",
+      "urlToImage": null,
+      "publishedAt": "2024-05-17T07:32:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "China announces sweeping steps to stabilise property sector - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/markets/asia/china-new-home-prices-fall-fastest-pace-over-9-years-2024-05-17/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-17T07:11:12Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "BBC.com",
+      "title": "War in Ukraine: Key weeks ahead for Russia’s offensive in Ukraine - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMmpkM2sxenlqcm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJqZDNrMXp5anJvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-17T07:05:35Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "JAKE COYLE",
+      "title": "Francis Ford Coppola debuts 'Megalopolis' in Cannes, and the reviews are in - The Associated Press",
+      "description": "Francis Ford Coppola on Thursday premiered his self-financed opus “Megalopolis” at the Cannes Film Festival, unveiling a wildly ambitious passion project the 85-year-old director has been pondering for decades. Reactions ranged from “a folly of gargantuan pro…",
+      "url": "https://apnews.com/article/megalopolis-cannes-francis-ford-coppola-d965352b9f0f5d78d6c470beb801f6f8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/079d223/2147483647/strip/true/crop/8436x4745+0+439/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F94%2F87%2F5a2d24afe06dd940917404404e8d%2F41a4dd9f620b4c3abd108f1ff9388940",
+      "publishedAt": "2024-05-17T06:21:00Z",
+      "content": "CANNES, France (AP) Francis Ford Coppola on Thursday premiered his self-financed opus Megalopolis at the Cannes Film Festival, unveiling a wildly ambitious passion project the 85-year-old director ha… [+4227 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Caitlin Clark's home debut for Fever spoiled by MVP performance from Liberty's Breanna Stewart - CBS Sports",
+      "description": "Stewart went off for 31 points, 10 rebounds, four assists, three steals and two blocks",
+      "url": "https://www.cbssports.com/wnba/news/caitlin-clarks-home-debut-for-fever-spoiled-by-mvp-performance-from-libertys-breanna-stewart/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/05/17/0d048722-fc74-496d-9960-0381ab1dbdca/thumbnail/1200x675/61b5fc7013e7aaa848e12011e199baef/stewart-clark.jpg",
+      "publishedAt": "2024-05-17T03:23:00Z",
+      "content": "Caitlin Clark's home debut in Indianapolis was spoiled by the reigning MVP, Breanna Stewart, who went off for 31 points, 10 rebounds, four assists, three steals and two blocks to lead the New York Li… [+3922 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Harrison Butker 'homemaker' speech sparks backlash - BBC.com",
+      "description": "Harrison Butker also attacked \"degenerate cultural values\" and \"the tyranny of diversity, equity and inclusion\".",
+      "url": "https://www.bbc.com/news/world-us-canada-69021543",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15B81/production/_133316988_gettyimages-1999165796.jpg",
+      "publishedAt": "2024-05-17T03:19:23Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Billboard" },
+      "author": "Anna Chan",
+      "title": "Here Are the 2024 ACM Awards Winners: Complete List - Billboard",
+      "description": "The 2024 ACM Awards were May 16. Here's the winners list.",
+      "url": "http://www.billboard.com/music/awards/2024-acm-awards-winners-list-1235685091/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/05/Lainey-Wilson-8-acm-2024-year-show-billboard-1548.jpg?w=1024",
+      "publishedAt": "2024-05-17T03:19:18Z",
+      "content": "The Academy of Country Music’s “party of the year” has come and gone! The 59th ACM Awards — which were broadcast live from the Ford Center at The Star in Frisco, Texas — on Thursday (May 16), started… [+5735 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ALANNA DURKIN RICHER, COLLEEN LONG, FARNOUSH AMIRI",
+      "title": "Biden's special counsel interview audio release blocked by White House - The Associated Press",
+      "description": "Two House committees have moved ahead with contempt charges against Attorney General Merrick Garland for refusing to turn over audio from President Joe Biden’s interview with a special counsel. The votes Thursday follow the White House’s decision to block the…",
+      "url": "https://apnews.com/article/biden-robert-hur-classified-documents-justice-department-edf67af3810ab877c7c195956b49b3a6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6270891/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F70%2Fa88334a57bce9eb2a244a4b652b2%2F598fd4237f444764bcaa210efa8ffa3c",
+      "publishedAt": "2024-05-17T03:14:00Z",
+      "content": "WASHINGTON (AP) Two House committees moved ahead Thursday with contempt charges against Attorney General Merrick Garland for refusing to turn over audio from President Joe Bidens interview with a spe… [+7094 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Putin to push growing Moscow-Beijing trade in China's northeast - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/world/putin-push-growing-moscow-beijing-trade-chinas-northeast-2024-05-17/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-17T03:09:54Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Jack Baer",
+      "title": "NBA playoffs: Timberwolves run roughshod over Nuggets to force Game 7 - Yahoo Sports",
+      "description": "Anthony Edwards is ready for Game 7.",
+      "url": "https://sports.yahoo.com/nba-playoffs-timberwolves-run-roughshod-over-nuggets-to-force-game-7-025711333.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yR6KoVOP8O1I6gdD6uuRNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/be28f5e0-13f7-11ef-bbfe-ce75e8bfd854",
+      "publishedAt": "2024-05-17T03:08:00Z",
+      "content": "Anthony Edwards wanted Game 7. He got it. (Photo by David Berding/Getty Images)\r\nThe Minnesota Timberwolves have given us a Game 7.\r\nFlexing the defensive muscle that made them the stingiest team in … [+2594 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Israel-Gaza: What did the ICJ ruling really say? - BBC.com",
+      "description": "The ICJ ruling has come under intense scrutiny, centring on the word \"plausible\". What did the court mean?",
+      "url": "https://www.bbc.com/news/articles/c3g9g63jl17o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/217c/live/02111320-13b0-11ef-b1b2-e35c72b37f73.jpg",
+      "publishedAt": "2024-05-17T02:35:34Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "John Fritze",
+      "title": "New York Times: Upside-down US flag flew at home of Justice Samuel Alito after 2020 election - CNN",
+      "description": "An upside-down American flag – a symbol used by some supporters of former President Donald Trump who challenged the legitimacy Joe Biden’s 2020 victory – hung outside the home of Supreme Court Justice Samuel Alito after the election, The New York Times report…",
+      "url": "https://www.cnn.com/2024/05/16/politics/alito-upside-down-american-flag-house/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/fa8e161f-271a-41e2-aabb-6ef3a63cddef.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-17T02:00:00Z",
+      "content": "An upside-down American flag a symbol used by some supporters of former President Donald Trump who challenged the legitimacy of Joe Bidens 2020 victory  hung outside the home of Supreme Court Justice… [+2690 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jack Bantock",
+      "title": "PGA Championship: Xander Schauffele ties major record again as Scottie Scheffler eagles first hole as a Dad - CNN",
+      "description": "Only four times in the history of all four men’s major championships has a golfer shot 62. Xander Schauffele is now responsible for the last two.",
+      "url": "https://www.cnn.com/2024/05/16/sport/xander-schauffele-pga-championship-score-record-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153243150.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-17T00:13:00Z",
+      "content": "Only four times in the history of all four mens major championships has a golfer shot 62. Xander Schauffele is now responsible for the last two.\r\nFor the second time in less than a year, the American… [+4292 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Sabba Rahbar",
+      "title": "Ben Affleck and Jennifer Lopez Step Out With Wedding Rings Amid Breakup Rumors - E! Online - E! NEWS",
+      "description": "Ben Affleck and Jennifer Lopez were both seen wearing their wedding rings as they stepped out in Los Angeles May 16, amid rumors the couple was breaking up after two years of marriage.",
+      "url": "https://www.eonline.com/news/1401827/ben-affleck-and-jennifer-lopez-step-out-with-wedding-rings-amid-breakup-rumors",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024126/cr_1200x1200-240226180944-GettyImages-1908171666.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-05-16T23:38:00Z",
+      "content": "Ben Affleck and Jennifer Lopez are getting loud with their love.\r\nThe Oscar winner and \"Love Don't Cost a Thing\" singer were seen out and about separately May 16, and both Ben and Jen appeared to be … [+808 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Josh Christenson",
+      "title": "Biden speeds up asylum process for migrants headed to NYC, LA, Chicago - New York Post ",
+      "description": "The Biden administration is accelerating the asylum timeline for migrants who enter the US illegally en route to five major cities. Homeland Security Secretary Alejandro Mayorkas and Attorney Gener…",
+      "url": "https://nypost.com/2024/05/16/us-news/biden-speeds-up-asylum-process-for-migrants-headed-to-nyc-la-chicago-atlanta-boston/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/miami-beach-florida-veterans-day-82006347.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-05-16T22:39:00Z",
+      "content": "The Biden administration is accelerating the asylum timeline for migrants who enter the US illegally en route to five major cities.\r\nHomeland Security Secretary Alejandro Mayorkas and Attorney Genera… [+4131 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Melissa Rudy",
+      "title": "CDC, WebMD give update on current bird flu outbreak: ‘Be alert, not alarmed’ - Fox News",
+      "description": "As bird flu continues to spread among cattle in the U.S., the CDC and WebMD joined forces on Thursday to present a live-streamed briefing on the status of the outbreak.",
+      "url": "https://www.foxnews.com/health/cdc-webmd-give-update-current-bird-flu-outbreak-alert-not-alarmed",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/cows-milk-concept.jpg",
+      "publishedAt": "2024-05-16T22:26:00Z",
+      "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+8380 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Aisha Counts, Shirin Ghaffary, Bloomberg",
+      "title": "Sam Altman, leader of OpenAI and one of Reddit's largest investors, is further aligning his interests with an alliance between the two - Fortune",
+      "description": "Altman, CEO of OpenAI, has a long history with Reddit and briefly served as its interim CEO in 2014.",
+      "url": "https://fortune.com/2024/05/16/sam-altman-openai-reddit-partner/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1933944316-e1715897551626.jpg?resize=1200,600",
+      "publishedAt": "2024-05-16T22:14:00Z",
+      "content": "OpenAI unveiled a partnership with Reddit Inc. that will bring the social networks content to chatbot ChatGPT and other products, and allow Reddit to add new artificial intelligence features to its o… [+1829 chars]"
+    }
+  ]
+}
